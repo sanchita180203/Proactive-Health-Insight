@@ -1,0 +1,2 @@
+
+streamlit run "C:\Users\SANCHITA DAS\OneDrive\Desktop\Multiple-Disease-Prediction-System-main\Multiple Disease Prediction System\Multiple disease predict.py"
